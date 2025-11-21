@@ -1,3 +1,9 @@
+===
+
+A small Nuxt project for displaying and searching up XKCD comics! Personally, I love them and decided it would be a great learning opportunity :D
+
+===
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
